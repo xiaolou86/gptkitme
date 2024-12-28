@@ -1,0 +1,22 @@
+{
+  "name": "@xiaolou86/gptkitme",
+  "version": "1.0.0",
+  "description": "gpt kit tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolou86/gptkitme.git"
+  },
+  "keywords": [
+    "gpt"
+  ],
+  "author": "xiaolou86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaolou86/gptkitme/issues"
+  },
+  "homepage": "https://github.com/xiaolou86/gptkitme#readme"
+}
